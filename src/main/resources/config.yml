@@ -1,0 +1,10 @@
+# 重新加载配置文件命令
+ReloadCmd: "rt reload"
+
+# 重复任务间隔（tick）
+TaskDelay: 200
+
+# 需要同步时间的世界
+World:
+  - "world"
+  - "world2"
